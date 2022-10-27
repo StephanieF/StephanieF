@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning MatLab
+- 🌱 I’m currently learning [MatLab](https://www.mathworks.com/)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning MatLab
+- 🌱 I’m currently learning [MatLab](https://www.mathworks.com/)
 - 📫 How to reach me: [stephaniefuda@stephaniecod.es](mailto=stephaniefuda@stephaniecod.es)
 - 😄 Pronouns: She/Her
