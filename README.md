@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning [MatLab](https://www.mathworks.com/)
+- 🔭 I’m currently working on a python based recommender system
 - 📫 How to reach me: [stephaniefuda@stephaniecod.es](mailto:stephaniefuda@stephaniecod.es?Subject=Secret+knock+because+I+found+you+on+GitHub)
 - 😄 Pronouns: She/Her
-- :books: Checkout my [Goodreads page](https://www.goodreads.com/user/show/163230124-stephanie-fuda)
+- :books: Checkout my [Goodreads page](https://www.goodreads.com/stephaniefuda)
