@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning [MatLab](https://www.mathworks.com/)
+- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/)
 - 🔭 I’m currently working on a python based recommender system
+- 💬 Ask me about - Data analyis in python
 - 📫 How to reach me: [stephaniefuda@stephaniecod.es](mailto:stephaniefuda@stephaniecod.es?Subject=Secret+knock+because+I+found+you+on+GitHub)
 - 😄 Pronouns: She/Her
 - :books: Checkout my [Goodreads page](https://www.goodreads.com/stephaniefuda)
