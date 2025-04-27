@@ -10,14 +10,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: [stephaniefuda@stephaniecod.es](mailto=stephaniefuda@stephaniecod.es)
+- 📫 How to reach me: [email@email.com](mailto=email@email.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
 
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/)
 - 🔭 I’m currently working on a python based recommender system
-- 💬 Ask me about - Data analyis in python
-- 📫 How to reach me: [stephaniefuda@stephaniecod.es](mailto:stephaniefuda@stephaniecod.es?Subject=Secret+knock+because+I+found+you+on+GitHub)
+- 💬 Ask me about - Data analyis and visualization in Python or R
+- 📫 How to reach me: [githubintro.0nokb@passmail.net](mailto:githubintro.0nokb@passmail.net?Subject=Secret+knock+because+I+found+you+on+GitHub)
 - 😄 Pronouns: She/Her
 - :books: Checkout my [Goodreads page](https://www.goodreads.com/stephaniefuda)
