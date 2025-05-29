@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/)
+- 🌱 I’m currently learning - As much as possible! there are too many options to list 😉
 - 🔭 I’m currently working on a python based recommender system
 - 💬 Ask me about - Data analyis and visualization in Python or R
 - 📫 How to reach me: [githubintro.0nokb@passmail.net](mailto:githubintro.0nokb@passmail.net?Subject=Secret+knock+because+I+found+you+on+GitHub)
