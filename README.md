@@ -28,6 +28,19 @@ Turning data chaos into discoverable knowledge | SEO/GEO Technical Consultant | 
 - 🤖 **ML/AI Solutions** - Developing production-ready models that automate decision-making and uncover patterns
 - 📈 **Structured Data Strategy** - Implementing schema markup and content architectures for maximum discoverability
 
+## 🚀 Available for Consulting
+
+I help organizations optimize their digital presence for both traditional search engines and AI-powered platforms. Services include:
+
+- Technical SEO audits and implementation
+- Generative Engine Optimization (GEO) strategy
+- Structured data architecture (Schema.org, JSON-LD)
+- Performance optimization (Core Web Vitals, page speed)
+- Content architecture for AI discoverability
+- Analytics integration and data pipeline design
+
+📧 [Contact me for consulting inquiries](mailto:githubintro.0nokb@passmail.net?Subject=SEO/GEO%20Consulting%20Inquiry)
+
 ## Currently Working On
 - Python-based recommender systems
 - Technical SEO implementations and GEO strategies
