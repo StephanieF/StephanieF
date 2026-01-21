@@ -34,7 +34,7 @@ I help organizations optimize their digital presence for both traditional search
 
 - Technical SEO audits and implementation
 - Generative Engine Optimization (GEO) strategy
-- Structured data architecture (Schema.org, JSON-LD)
+- Structured data architecture and strategy
 - Performance optimization (Core Web Vitals, page speed)
 - Content architecture for AI discoverability
 - Analytics integration and data pipeline design
