@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 # Stephanie Fuda
 **Data Scientist | SEO/GEO Technical Consultant | Performance Engineer**
 
-Architecting discoverable, high-performance systems at the intersection of data science and search intelligence.
+<!-- Architecting discoverable, high-performance systems at the intersection of data science and search intelligence. -->
+Turning data chaos into discoverable knowledge | SEO/GEO Technical Consultant | 25+ years building scalable systems
 
 ## What I Do
 - 🔍 **SEO/GEO Technical Consulting** - Optimizing digital infrastructure for both traditional search and AI-powered answer engines
