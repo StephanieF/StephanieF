@@ -24,7 +24,7 @@ Turning data chaos into discoverable knowledge | SEO/GEO Technical Consultant | 
 ## What I Do
 - 🔍 **SEO/GEO Technical Consulting** - Optimizing digital infrastructure for both traditional search and AI-powered answer engines
 - 📊 **Data Architecture & Engineering** - Building scalable pipelines that transform raw data into actionable insights
-- ⚡ **Performance Engineering** - Optimizing web platforms and data systems for speed, efficiency, and reliability
+- ⚡ **Performance Engineering** - Optimizing web platforms, data systems, and ETL pipelines for speed, efficiency, and reliability at scale
 - 🤖 **ML/AI Solutions** - Developing production-ready models that automate decision-making and uncover patterns
 - 📈 **Structured Data Strategy** - Implementing schema markup and content architectures for maximum discoverability
 
@@ -34,8 +34,8 @@ I help organizations optimize their digital presence for both traditional search
 
 - Technical SEO audits and implementation
 - Generative Engine Optimization (GEO) strategy
-- Structured data architecture and strategy
-- Performance optimization (Core Web Vitals, page speed)
+- Structured data architecture for enhanced discoverability
+- Performance optimization (web platforms, Core Web Vitals, ETL/data pipelines)
 - Content architecture for AI discoverability
 - Analytics integration and data pipeline design
 
